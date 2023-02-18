@@ -20,6 +20,7 @@ const Footer = () => {
         </div>
         <a href="https://mail.google.com/mail/u/0/?fs=1&to=mr.anujps@gmail.com&body=Hey%20Anuj,&bcc=anujpratap.singh280211@gmail.com&tf=cm"
           className="f-foot">
+            //prsnl email id
         <p>mr.anujps@gmail.com</p>
         </a>
       </div>
